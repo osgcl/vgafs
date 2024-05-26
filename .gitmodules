@@ -1,0 +1,3 @@
+[submodule "libs/cltest"]
+	path = libs/cltest
+	url = https://github.com/osgcl/cltest.git

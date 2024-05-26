@@ -1,0 +1,4 @@
+# this line is used by the testing tools to validate read
+.vscode
+.test
+build
